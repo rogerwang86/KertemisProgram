@@ -1,5 +1,5 @@
 # Kertemis Program
-Add SLS block 1b parts for reDIRECT.
+### Add SLS block 1b parts for reDIRECT, a kerbal space program Mod.
 
 **Dependencies：**
 
