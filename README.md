@@ -1,5 +1,5 @@
 # KertemisProgram
-Add SLS block 1b parts for reDIRECT
+Add SLS block 1b parts for reDIRECT.
 
 **Dependencies：**
 
